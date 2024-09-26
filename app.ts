@@ -6,7 +6,7 @@ const letras: string[] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'Y', 'J'];
 console.log("El arreglo de letras contiene: ", letras);
 
 //Arreglo con nombres de tamaño 5
-const nombres:string[] = ['Juan', 'María', 'Pedro', 'Luisa', 'Ana'];
+const nombres:string[] = ['Juan', 'Lucas', 'Mateo', 'Maria', 'Julieta'];
 
 let nombreDeUsuario: string = fs.question("Ingrese su nombre por favor: ");
 

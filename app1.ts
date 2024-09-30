@@ -17,7 +17,6 @@ if (nombreDeUsuario && nombres.includes(nombreDeUsuario)) {
     console.log(`\nEl nombre ${nombreDeUsuario} no se encuentra en el arreglo. 😔`);
     nombres.push(nombreDeUsuario);
     console.log(`\nEl nombre ${nombreDeUsuario} no se encontraba pero ha sido añadido. 👌`);
-    
 }
 
 //Mostramos el arreglo

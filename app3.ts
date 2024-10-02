@@ -30,8 +30,5 @@ function sumarArreglos(arr1: number[], arr2: number[]): number[] {
 const resultadoSuma = sumarArreglos(arreglo1, arreglo2);
 
 // Mostrar el resultado
-<<<<<<< HEAD
 console.log(`El resultado de la suma de los arreglos es: ${resultadoSuma}`);
-=======
 console.log(`El resultado de la suma de los arreglos es: ${resultadoSuma}`);
->>>>>>> 0ed3c6202e4c774d6be4900f801a9dd813ada4aa
